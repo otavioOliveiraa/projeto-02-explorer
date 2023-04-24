@@ -25,7 +25,7 @@ body {
 .page {
   width: 1000px;
   margin: 0 auto;
-  padding: 65px;
+  padding-top: 65px;
 }
 
 /* === HEADER ================= */
@@ -120,7 +120,7 @@ button:hover {
 /* === FOOTER ================= */
 
 footer {
-  margin: 80px auto 30px;
+  margin: 80px auto 0;
   text-align: center;
 }
 
